@@ -1,4 +1,4 @@
-# Chapter Slides for the Handbook of Geospatial Artificial Intelligence
+# Chapter slides for the Handbook of Geospatial Artificial Intelligence
 ![Handbook_GeoAI_qrcode](https://github.com/GeoDS/GeoAIHandbook/blob/master/Handbook_GeoAI_qrcode.jpg)
 Publisher: T&F CRC Press \ 
 DOI: [https://doi.org/10.1201/9781003308423](https://doi.org/10.1201/9781003308423)
