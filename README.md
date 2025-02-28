@@ -15,4 +15,6 @@ This comprehensive handbook covers Geospatial Artificial Intelligence (GeoAI), w
 
 This book is intended for upper-level undergraduate and graduate students from different disciplines and those taking GIS courses in geography or computer sciences as well as software engineers, geospatial industry engineers, GIS professionals in non-governmental organizations, and federal/state agencies who use GIS and want to learn more about GeoAI advances and applications.  
 
+# Table of Contents
+[https://www.taylorfrancis.com/books/edit/10.1201/9781003308423/handbook-geospatial-artificial-intelligence-song-gao-yingjie-hu-wenwen-li](https://www.taylorfrancis.com/books/edit/10.1201/9781003308423/handbook-geospatial-artificial-intelligence-song-gao-yingjie-hu-wenwen-li)
 
